@@ -1,0 +1,6 @@
+[submodule "snpe-yolov7-inference"]
+	path = snpe-yolov7-inference
+	url = https://github.com/KoKoLates/snpe-yolov7-inference
+[submodule "PaddleDetection"]
+	path = PaddleDetection
+	url = https://github.com/PaddlePaddle/PaddleDetection.git
