@@ -1,0 +1,2 @@
+models/mot_ppyoloe_s_36e_pipeline.zip filter=lfs diff=lfs merge=lfs -text
+models/PPLCNet_x1_0_person_attribute_945_infer.zip filter=lfs diff=lfs merge=lfs -text
